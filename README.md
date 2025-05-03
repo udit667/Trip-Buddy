@@ -8,4 +8,4 @@ This project involved:
 
 • Built using HTML, CSS, Bootstrap, and JavaScript, ensuring an intuitive layout and smooth navigation for easy exploration and booking of travel packages.
 
-Live Preview : https://sakshamhayaran.github.io/Trip-Buddy/
+Live Preview : https://github.com/udit667/Trip-Buddy/settings/pages
